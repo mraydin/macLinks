@@ -88,7 +88,7 @@ https://github.com/Screenly/screenly-ose
 
 ---
 
-# Digital Signage
+## Digital Signage
 
 
 
