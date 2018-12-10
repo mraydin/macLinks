@@ -1,7 +1,6 @@
 # macLinks
 > **voiceit.io**
 ```
-
 ```
 https://voiceit.io/login <br>
 https://api.voiceit.io/#identify-a-user-s-voice <br>
@@ -34,6 +33,14 @@ http://docs.nwjs.io/en/latest/For%20Users/Advanced/Protect%20JavaScript%20Source
 
 <hr>
 
+> **nwjs/nw.js**
+```
+Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+```
+https://github.com/nwjs/nw.js
+
+<hr>
+
 > **NodeJS for the Web Pi Kiosk**
 ```
 In case you missed the news, the Minimalistic Web Kiosk for RPi got updated with the missing piece to 
@@ -50,3 +57,13 @@ Kiosk nodejs service
 https://github.com/happyshop/kiosk-node-service
 
 <hr>
+
+> **abbott567/raspberry-pi-kiosk**
+```
+A simple set of commands to set up a raspberry pi for use as a stand alone kiosk screen
+```
+https://github.com/abbott567/raspberry-pi-kiosk
+
+<hr>
+
+
