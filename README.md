@@ -83,7 +83,14 @@ Here's a bunch of Screenly assets that we have running on a hallway tv at work i
 ```
 https://github.com/nortal/screenly
 
+> **Screenly OSE - Digital Signage for the Raspberry Pi**
+https://github.com/Screenly/screenly-ose
+
 ---
+
+# Digital Signage
+
+
 
 
 
