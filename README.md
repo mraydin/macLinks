@@ -48,6 +48,9 @@ have a fully HW Accelerated Web experience through the Pi 3, or others.
 ```
 https://medium.com/@WebReflection/nodejs-for-the-web-pi-kiosk-126283f5be16
 
+> **How to run apps**
+https://github.com/nwjs/nw.js/wiki/How-to-run-apps
+
 <hr>
 
 > **happyshop/kiosk-node-service**
@@ -65,5 +68,18 @@ A simple set of commands to set up a raspberry pi for use as a stand alone kiosk
 https://github.com/abbott567/raspberry-pi-kiosk
 
 <hr>
+
+> **Error: EACCES: permission denied when trying to install ESLint using npm
+```
+sudo npm install -g eslint --unsafe-perm=true --allow-root
+```
+https://stackoverflow.com/questions/35954725/error-eacces-permission-denied-when-trying-to-install-eslint-using-npm
+
+---
+~~~
+
+
+
+
 
 
