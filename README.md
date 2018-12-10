@@ -85,11 +85,15 @@ https://github.com/nortal/screenly
 
 > **Screenly OSE - Digital Signage for the Raspberry Pi**
 https://github.com/Screenly/screenly-ose
-
 ---
 
 ## Digital Signage
-
+> **Rise Vision and Raspberry Pi**
+```
+Considering using Raspberry Pi to power your digital signage? You can with Rise Vision.
+```
+https://www.risevision.com/raspberry-pi-digital-signage
+---
 
 
 
