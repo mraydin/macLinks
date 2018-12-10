@@ -69,14 +69,22 @@ https://github.com/abbott567/raspberry-pi-kiosk
 
 <hr>
 
-> **Error: EACCES: permission denied when trying to install ESLint using npm
+> **Error: EACCES: permission denied when trying to install ESLint using npm**
 ```
 sudo npm install -g eslint --unsafe-perm=true --allow-root
 ```
 https://stackoverflow.com/questions/35954725/error-eacces-permission-denied-when-trying-to-install-eslint-using-npm
 
 ---
-~~~
+
+> **Screenly assets**
+```
+Here's a bunch of Screenly assets that we have running on a hallway tv at work in Nortal Turku office.
+```
+https://github.com/nortal/screenly
+
+---
+
 
 
 
