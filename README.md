@@ -143,7 +143,8 @@ UWP interface to manage multiple Raspberry with Screenly OSE (@Screenly)
 ```
 https://github.com/thefyfy/ScreenlyManager
 
-
+## GitHub Flavored Markdown Spec
+[Writing on GitHub](https://help.github.com/categories/writing-on-github) // Basic writing and formatting syntax
 
 
 
