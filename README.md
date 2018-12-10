@@ -96,7 +96,45 @@ https://www.risevision.com/raspberry-pi-digital-signage
 
 ---
 
+> **info-beamer hosted**
+```
+Run reliable Digital Signage installations using the Raspberry Pi with our open and easy-to-use cloud-based platform.
+```
+https://info-beamer.com/
 
+---
+
+> **Binary Emotions**
+```
+Download Raspberry Digital Signage
+```
+https://www.binaryemotions.com/raspberry-digital-signage-download/
+
+---
+
+> **Cheap Digital Signage**
+```
+using Google Slides & Raspberry Pi ($40 per display)
+```
+http://www.chuckegg.com/cheap-digital-signage-using-google-slides/
+
+---
+
+> **piSignage**
+```
+Raspberry Pi Player, Chrome App, Chromecast Player, Hosted Service, Open Sourced Server, 
+Remote Apps for Pi Player and more.
+```
+https://pisignage.com/homepage/documentation.html<br>
+https://github.com/colloqi/pisignage#getting-the-player-ready
+
+---
+
+> **thefyfy/ScreenlyManager**
+```
+UWP interface to manage multiple Raspberry with Screenly OSE (@Screenly)
+```
+https://github.com/thefyfy/ScreenlyManager
 
 
 
