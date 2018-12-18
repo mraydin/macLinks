@@ -7,6 +7,8 @@ https://api.voiceit.io/#identify-a-user-s-voice <br>
 https://github.com/voiceittech <br>
 https://github.com/voiceittech/VoiceItApi2WebSDK<br>
 
+https://voiceit.io/apidemo
+
 ### https://s3.amazonaws.com/voiceit-api2-testing-files<br>
 
 https://s3.amazonaws.com/voiceit-api2-testing-files/test-data/enrollmentArmaan1.wav<br>
