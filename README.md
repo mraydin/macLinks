@@ -170,5 +170,26 @@ https://codepen.io/andreic/pen/CJoze
 ---
 
 ### PHP htaccess kullanımı
+```
+Web projelerinizi bir çok şekilde düzene sokup kullanıcı dostu URL’ler yapmamıza ve bir takım yollarla güvenlik önlemleri de almanıza yarayan ve bu alanda en favori olaylarımdan bir tanesidir.
+```
+https://www.phpr.org/php-htaccess-kullanimi/
+
+---
+
+### Raspberry Pi Dropbox Uploader in Python
+```
+This tutorial will show you how to create a Raspberry Pi Dropbox Uploader in Python.
+```
+https://raspberrypituts.com/dropbox-uploader-in-python/
+
+---
+
+### Monitor Your Home With the Raspberry Pi B+
+```
+There are lots of devices on the market that allow you to monitor your home from a central interface. In this article, we are going to make our own DIY version of such devices. To do so, we will use the latest Raspberry Pi board, the B+ model, and the official Raspberry Pi camera module. We will also perform some measurements from a temperature and humidity sensor.
+```
+https://learn.adafruit.com/monitor-your-home-with-the-raspberry-pi-b-plus/introduction
+---
 
 
