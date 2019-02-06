@@ -14,6 +14,7 @@ https://voiceit.io/apidemo
 https://s3.amazonaws.com/voiceit-api2-testing-files/test-data/enrollmentArmaan1.wav<br>
 https://s3.amazonaws.com/voiceit-api2-testing-files/test-data/verificationArmaan1.wav<br>
 https://s3.amazonaws.com/voiceit-api2-testing-files/test-data/enrollmentStephen1.wav<br>
+https://s3.amazonaws.com/voiceit-api2-testing-files
 
 
 <hr>
@@ -160,4 +161,14 @@ https://github.github.com/gfm/#example-94
 At times you will wish to be able to create a table from dynamic information passed directly to DataTables, rather than having it read from the document.
 ```
 https://datatables.net/examples/data_sources/js_array.html
+
+---
+
+##### Morris.js charts - simple examples
+https://codepen.io/andreic/pen/CJoze
+
+---
+
+#### PHP htaccess kullanımı
+
 
