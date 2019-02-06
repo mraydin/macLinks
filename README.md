@@ -169,6 +169,6 @@ https://codepen.io/andreic/pen/CJoze
 
 ---
 
-#### PHP htaccess kullanımı
+### PHP htaccess kullanımı
 
 
