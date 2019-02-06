@@ -153,5 +153,11 @@ What is GitHub Flavored Markdown?
 https://github.github.com/gfm/#example-94
 
 
+## Yeni Linkler
 
+##### Javascript sourced data
+```
+At times you will wish to be able to create a table from dynamic information passed directly to DataTables, rather than having it read from the document.
+```
+https://datatables.net/examples/data_sources/js_array.html
 
