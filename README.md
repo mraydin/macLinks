@@ -190,6 +190,15 @@ https://raspberrypituts.com/dropbox-uploader-in-python/
 There are lots of devices on the market that allow you to monitor your home from a central interface. In this article, we are going to make our own DIY version of such devices. To do so, we will use the latest Raspberry Pi board, the B+ model, and the official Raspberry Pi camera module. We will also perform some measurements from a temperature and humidity sensor.
 ```
 https://learn.adafruit.com/monitor-your-home-with-the-raspberry-pi-b-plus/introduction
+
 ---
+
+> **justadudewhohacks/opencv4nodejs**
+```
+Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
+```
+
+https://github.com/justadudewhohacks/opencv4nodejs
+
 
 
