@@ -200,5 +200,13 @@ Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with
 
 https://github.com/justadudewhohacks/opencv4nodejs
 
+### Minimising power consumption
+```
+Minimising power consumption
+```
+https://raspberry-projects.com/pi/pi-hardware/raspberry-pi-zero/minimising-power-consumption
+
+
+
 
 
