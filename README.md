@@ -206,6 +206,28 @@ Minimising power consumption
 ```
 https://raspberry-projects.com/pi/pi-hardware/raspberry-pi-zero/minimising-power-consumption
 
+---
+### owfont - symbol font for Open Weather Map API
+```
+OpenWeatherFont (owfont) is designed to match to weather condition codes from Open Weather Map API. CSS rules are based on Font-Awesome font, symbols are created by Deniz Fuchidzhiev.
+```
+https://websygen.github.io/owfont/#usage
+
+---
+
+### Ethernet Gadget
+```
+Turning your Raspberry PI Zero into a USB Gadget
+Go Go Gadget Pi Zero,
+```
+https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/ethernet-gadget
+
+> **RASPBERRY PI ZERO USB/ETHERNET GADGET TUTORIAL**
+
+http://www.circuitbasics.com/raspberry-pi-zero-ethernet-gadget/
+
+---
+
 
 
 
